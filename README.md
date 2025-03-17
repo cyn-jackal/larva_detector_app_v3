@@ -7,7 +7,7 @@ A Flutter project.
 Dowload the package
 ``` flutter pub get ```
 
-open the emulator nad 
+open the emulator and run 
 ``` flutter run ```
 
 You can change the server end-point api at api_connection.dart file
